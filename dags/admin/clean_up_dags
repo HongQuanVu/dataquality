@@ -1,0 +1,7 @@
+delete from dag_run ;
+delete from dag ;
+delete from job ;
+delete from dag_pickle
+;
+delete from dag_stats ;
+
